@@ -1,0 +1,13 @@
+disabled = false
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "Phantasm"
+
+[params]
+displayName = "EN"
+isoCode = "en"
+rtl = false
+dateFormat = "2 January 2006"
+logo = "ghostImageFavi.png"
+secondaryLogo = "ghostImageFavi.png"

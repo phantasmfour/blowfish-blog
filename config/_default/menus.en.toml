@@ -1,0 +1,23 @@
+[[main]]
+none = "none"
+
+[[main]]
+pre = "rss"
+url = "/index.xml"
+identifier = "j0u1nessk8"
+weight = 9_999
+
+[[main]]
+name = "Posts"
+pageRef = "posts"
+identifier = "z36vffDIXW"
+weight = 9_999
+
+[[main]]
+name = "About"
+pageRef = "about"
+identifier = "nGvsX5zyH1"
+weight = 9_999
+
+[[footer]]
+none = "none"

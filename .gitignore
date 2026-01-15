@@ -1,0 +1,21 @@
+# Hugo build output
+/public/
+
+# Hugo cache & temp files
+/resources/_gen/
+.hugo_build.lock
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Node / tooling (if used)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-lock.yaml
