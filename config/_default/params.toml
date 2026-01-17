@@ -25,6 +25,7 @@ defaultBackgroundImage = "forestImage.jpg"
 
 [header]
 layout = "fixed"
+favicon = icons
 
 [footer]
 showMenu = true
