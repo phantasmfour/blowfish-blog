@@ -21,13 +21,10 @@ buymeacoffee = { }
 verification = { }
 rssnext = { }
 advertisement = { }
+defaultBackgroundImage = "forestImage.jpg"
 
 [header]
-layout = "basic"
-
-[[header.socialIcons]]
-  name = "rss"
-  url = "/index.xml"
+layout = "fixed"
 
 [footer]
 showMenu = true
@@ -37,16 +34,16 @@ showAppearanceSwitcher = true
 showScrollToTop = true
 
 [homepage]
-layout = "profile"
+layout = "hero"
 showRecent = true
-showRecentItems = 5
+showRecentItems = 6
 showMoreLink = true
 showMoreLinkDest = "/posts/"
 cardView = true
-cardViewScreenWidth = true
+cardViewScreenWidth = false
 layoutBackgroundBlur = true
 disableHeroImageFilter = false
-homepageImage = "content/images/mainpage_banner.jpg"
+homepageImage = "forestImage.jpg"
 
 [article]
 showDate = true

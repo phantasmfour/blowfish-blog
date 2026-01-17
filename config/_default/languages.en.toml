@@ -1,8 +1,7 @@
-disabled = false
 languageCode = "en"
 languageName = "English"
 weight = 1
-title = "Phantasm"
+title = ""
 
 [params]
 displayName = "EN"
@@ -11,3 +10,10 @@ rtl = false
 dateFormat = "2 January 2006"
 logo = "ghostImageFavi.png"
 secondaryLogo = "ghostImageFavi.png"
+
+[[params.author.links]]
+github = "https://github.com/phantasmfour"
+
+
+["params.author"]
+name = "Phantasm"
